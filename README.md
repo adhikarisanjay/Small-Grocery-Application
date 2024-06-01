@@ -11,6 +11,7 @@ I made this project for a college assignment using Java and SQLlight
 <img src="https://github.com/adhikarisanjay/Small-Grocery-Application/assets/35997281/5986bf93-beec-47d6-8112-8f23d95a387f" width="400">
 
 <img src="https://github.com/adhikarisanjay/Small-Grocery-Application/assets/35997281/60a7c316-7ec3-4e3b-9925-b14cf42a8909" width="400">
+
 <img src="https://github.com/adhikarisanjay/Small-Grocery-Application/assets/35997281/cd57fa22-81eb-4d0c-9b74-29a829ad3f47" width="400">
 
 
