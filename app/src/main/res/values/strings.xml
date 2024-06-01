@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">SAGrocery</string>
+    <string name="login_txt">Login</string>
+    <string name="register_txt">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email_txt">Email Address</string>
+    <string name="not_register_text">Not yet registered? SignUp Now</string>
+    <string name="already_register_text">Already registered? SignIn Now</string>
+    <!-- Strings related to login -->
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="invalid_text">Please check your username and password.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+
+    <!-- Add Stock fragment  section-->
+    <string name="addStock_title">Add Stock</string>
+    <string name="item_code">Item Code: </string>
+    <string name="item_name_txt">Item Name: </string>
+    <string name="qty">Quantity: </string>
+    <string name="item_price">Price: </string>
+    <string name="item_isTaxable">Taxable: </string>
+    <string name="item_name">Item Name </string>
+    <string name="qty_in_stock">Qty In Stock </string>
+    <string name="price">Price</string>
+    <string name="tax_preference">Taxation Preference</string>
+    <string name="taxable">Taxable</string>
+    <string name="non_taxable">Non-Taxable</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="save_btn">Save</string>
+    <string name="validation_failed">Validation failed! Please check your inputs.</string>
+    <string name="item_added">Item added to stock successfully!</string>
+
+    <!-- Add Stock fragment  section-->
+   <string name="stock_list">Stock List</string>
+
+    <!-- Sale fragment  section-->
+    <string name="sale_title">Sale Stock</string>
+    <string name="item_code_txt">Item Code</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="customer_email">Customer Email</string>
+    <string name="qty_sold">Quantity Sold</string>
+    <string name="sale_date">Date of Sales</string>
+    <string name="submit">Submit</string>
+
+    <!-- Purchase fragment  section-->
+    <string name="purchase_title">Purchase Stock</string>
+    <string name="qty_purchase">Quantity purchase</string>
+    <string name="purchase_date">Date of Purchase</string>
+
+    <!-- Search fragment  section-->
+    <string name="search">Search</string>
+    <string name="item_search">Search by Item code</string>
+
+    <!-- Home fragment  section-->
+
+    <string name="total_stock">Total Stock</string>
+    <string name="total_purchase">Total Purchase</string>
+    <string name="total_sale">Total Sale</string>
+
+
+    <!--Nav home -->
+    <string name="home_text">Home</string>
+    <string name="addStock_text">Add Stock</string>
+    <string name="sales_text">Sales</string>
+    <string name="purchase_text">Purchase</string>
+    <string name="search_text">Search Stock</string>
+    <string name="list_stock">List Stock</string>
+
+</resources>
