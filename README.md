@@ -1,5 +1,7 @@
 # Small-Grocery-Application
 I made this project for a college assignment using Java and SQLlight
+
+
 <img src="https://github.com/adhikarisanjay/Small-Grocery-Application/assets/35997281/4884b85a-0d3f-4ca5-8134-91d054379577" width="400">
 
 <img src="https://github.com/adhikarisanjay/Small-Grocery-Application/assets/35997281/8725eea1-0a13-4a22-916f-5de36ba5252d" width="400">
